@@ -7,6 +7,7 @@
   <a href="https://github.com/Matheussil01/InforMei">
     <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-E10600?style=for-the-badge&logo=github&logoColor=white" alt="Repositório GitHub" />
   </a>
+  <a href="https://informei.onrender.com/">
   <img src="https://img.shields.io/badge/Projeto-InforMei-151515?style=for-the-badge" alt="Projeto InforMei" />
 </div>
 
